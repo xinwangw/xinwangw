@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @xinwangw
 - 👀 I’m interested in coding and bujo.
-- 🌱 I’m currently learning react
